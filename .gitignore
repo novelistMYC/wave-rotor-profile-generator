@@ -1,0 +1,29 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# ---- PyInstaller 打包产物 ----
+build/
+dist/
+*.spec
+*.manifest
+
+# ---- 程序生成的输出（DXF / SVG / 预览图）----
+*.dxf
+*.svg
+波形转子_*.png
+
+# ---- 编辑器 / IDE ----
+.vscode/
+.idea/
+*.swp
+*~
+
+# ---- 操作系统 ----
+Thumbs.db
+desktop.ini
+.DS_Store
