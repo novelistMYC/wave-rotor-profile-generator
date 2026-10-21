@@ -127,6 +127,8 @@ py -m PyInstaller --onefile --windowed --name 波形转子生成器_v2 \
 
 给对方用，发这一个文件就够：**`波形转子DXF生成器_安装包_v2.0.exe`**（约 12 MB）。
 
+**下载**：到 [Releases](https://github.com/novelistMYC/wave-rotor-profile-generator/releases/latest) 页下载 `波形转子DXF生成器_安装包_v2.0.exe`。
+
 1. 双击 → 中文向导，三步到底（欢迎 → 选目录 → 安装）；
 2. 装完**桌面自动出现**「波形转子 DXF 生成器」快捷方式，开始菜单里也有（程序 / 使用说明 / 卸载）；
 3. 按**当前用户**安装到 `%LOCALAPPDATA%\Programs\波形转子DXF生成器`，不需要管理员权限、不会弹 UAC；
